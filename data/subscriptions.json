@@ -1,0 +1,52 @@
+{
+  "subscriptions": [
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Shopify",
+      "price": 39.99,
+      "paymentDate": "2021-01-01",
+      "status": "ACTIVE",
+      "cancelUrl": "https://shopify.com/cancel"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "Netflix",
+      "price": 9.99,
+      "paymentDate": "2021-01-01",
+      "status": "ACTIVE",
+      "cancelUrl": "https://netflix.com/cancel"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174002",
+      "name": "Spotify",
+      "price": 9.99,
+      "paymentDate": "2021-01-01",
+      "status": "ACTIVE",
+      "cancelUrl": "https://spotify.com/cancel"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174003",
+      "name": "Amazon Prime",
+      "price": 12.99,
+      "paymentDate": "2021-01-01",
+      "status": "INACTIVE",
+      "cancelUrl": "https://amazon.com/cancel"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174004",
+      "name": "Disney+",
+      "price": 6.99,
+      "paymentDate": "2021-01-01",
+      "status": "ACTIVE",
+      "cancelUrl": "https://disney.com/cancel"
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174005",
+      "name": "Hulu",
+      "price": 5.99,
+      "paymentDate": "2021-01-01",
+      "status": "INACTIVE",
+      "cancelUrl": "https://hulu.com/cancel"
+    }
+  ]
+}
